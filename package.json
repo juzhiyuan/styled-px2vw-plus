@@ -1,6 +1,6 @@
 {
     "name": "styled-px2vw-plus",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Extension of styled-components with features for convert px to vw units",
     "main": "lib/index.js",
     "module": "es/index.js",
